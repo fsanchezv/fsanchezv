@@ -7,17 +7,21 @@ Te comento que dentro de mis actividades profesionales me dedico a la docencia p
 
 </br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
+
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 </br>
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+
 </br>
+
 Y alguna más...
 
 ## Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/freddy-sanchez-vallejos/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Freddy_Sanchez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/freddy-sanchez-vallejos/) 
 
 
 
@@ -25,4 +29,4 @@ Y alguna más...
 
 </br>
 [![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_rápida)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:fs.academicos@gmail.com)
-
+</br>
