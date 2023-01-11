@@ -28,5 +28,9 @@ Y alguna más...
 ## Contacto:
 
 </br>
+[![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+</br>
+
+</br>
 [![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_rápida)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:fs.academicos@gmail.com)
 </br>
